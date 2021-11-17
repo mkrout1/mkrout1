@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">  Hi 👋, I'm Manoj </h1> 
+<h3 align="center"> Data Scientist / Research Associate / Biochemist </h3>
 <!--
 **mkrout1/mkrout1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
